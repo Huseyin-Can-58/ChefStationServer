@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Ara</string>
+    <string name="action_filter">Filtre</string>
+
+    <string name="menu_category">Kategoriler</string>
+    <string name="menu_shipper">Kuryeler</string>
+    <string name="menu_slideshow">Slayt</string>
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_food_detail">Yemek Detayı</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="menu_food_list">Yemek Listesi</string>
+    <string name="popular_categories">Popüler Kategoriler</string>
+    <string name="best_deals">En İyi Fiyatlar</string>
+    <string name="size">Boyut</string>
+    <string name="add_on">Eklenti</string>
+    <string name="menu_cart">Sepet</string>
+    <string name="action_clear_cart">Sepeti Temizle</string>
+    <string name="sign_out">Çıkış</string>
+    <string name="menu_view_orders">Siparişlerim</string>
+    <string name="menu_order">Siparişler</string>
+    <string name="menu_best_deals">En İyi Fiyatlar</string>
+    <string name="menu_most_popular">En Popülerler</string>
+    <string name="menu_news">Haberler</string>
+    <string name="action_create">Oluştur</string>
+    <string name="menu_discount">İndirimler</string>
+
+</resources>

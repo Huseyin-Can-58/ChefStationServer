@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_baseline_restaurant_menu_24"
+            android:title="@string/menu_category" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_best_deals"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="@string/menu_best_deals" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_most_populars"
+            android:icon="@drawable/ic_baseline_whatshot_24"
+            android:title="@string/menu_most_popular" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+            android:title="@string/menu_order" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_baseline_markunread_24"
+            android:title="@string/menu_news" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="@string/sign_out" />
+    </group>
+
+</menu>
